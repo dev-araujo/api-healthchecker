@@ -1,5 +1,16 @@
 
 
-<main class="content-wrapper">
-  <app-dashboard></app-dashboard>
-</main>
+@if (isReady()) {
+  <main class="content-wrapper">
+    <app-dashboard></app-dashboard>
+  </main>
+} @else {
+  <div class="startup-screen">
+    <div class="loader-content">
+      <mat-icon class="pulse-icon">cloud_queue</mat-icon>
+      <h2>Iniciando Serviços...</h2>
+      <p>O servidor está acordando. Por favor, aguarde alguns segundos.</p>
+      <div class="loader-bar"></div>
+    </div>
+  </div>
+}

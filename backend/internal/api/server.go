@@ -26,4 +26,5 @@ func (s *Server) Router() http.Handler {
 
 func (s *Server) registerRoutes() {
 	s.router.HandleFunc("/check", s.handleCheck())
+	s.router.HandleFunc("/health", s.handleHealth())
 }
