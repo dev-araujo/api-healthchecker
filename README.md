@@ -12,13 +12,14 @@ O **Go Health Checker** é uma aplicação de monitoramento do status de saúde 
 ## Resultado ✨
 
 - **Você pode conferir o resultado nos seguintes locais:**
-> Os serviços online estão em plataformas gratuitas, portanto podem estar indisponíveis.
+
+>  O front está em uma plataforma gratuita, por isso podem haver indisponibilidades 
+
   - **[Front - VERCEL](https://go-health-checker.vercel.app/)**
-  - **[Backend - RENDER](https://go-healthchecker.onrender.com)**
+  - **[Backend - VPS - Hostinger](https://dev-araujo.com.br/health-checker-go)**
 
 ![](./assets/ui.png)
 
-> Nota: O acesso aos links pode conter instabilidade por estarem hospedados em serviços gratuitos. **Para uma melhor experiência rode localmente**.
 
 ## Funcionalidades
 
