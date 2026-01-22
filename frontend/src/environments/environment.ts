@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://go-healthchecker.onrender.com',
+  apiUrl: 'https://dev-araujo.com.br/health-checker-go/health',
 };
