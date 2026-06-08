@@ -9,14 +9,8 @@
 
 O **Go Health Checker** é uma aplicação de monitoramento do status de saúde de URLs. Ele permite que os usuários insiram URLs e verifiquem se os serviços estão online, o tempo de latência e o status HTTP. A aplicação é construída com um backend em **Go** e um frontend em **Angular**.
 
-## Resultado ✨
+## Interface ✨
 
-- **Você pode conferir o resultado nos seguintes locais:**
-
->  O front está em uma plataforma gratuita, por isso podem haver indisponibilidades 
-
-  - **[Front - VERCEL](https://go-health-checker.vercel.app/)**
-  - **[Backend - VPS - Hostinger](https://dev-araujo.com.br/health-checker-go)**
 
 ![](./assets/ui.png)
 
